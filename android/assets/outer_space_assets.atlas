@@ -1,0 +1,27 @@
+
+outer_space_assets.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+astronaut
+  rotate: false
+  xy: 2, 60
+  size: 256, 284
+  orig: 256, 284
+  offset: 0, 0
+  index: -1
+badlogic
+  rotate: false
+  xy: 260, 88
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+saturn
+  rotate: false
+  xy: 2, 2
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
